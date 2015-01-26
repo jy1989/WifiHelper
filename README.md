@@ -1,3 +1,7 @@
+#WifiHelper class
+This class make you control the wifi function more easier. 
+with the function open, scan, connect wifi and check the status.
+
 #Usage
 ``` java
 protected void onCreate(Bundle savedInstanceState) {
