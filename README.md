@@ -1,5 +1,6 @@
 #Usage
-`protected void onCreate(Bundle savedInstanceState) {
+```java
+protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_config);
@@ -44,9 +45,6 @@
             public void connectFail() {
                 //connect fail
             }
-        });
- 
- 
- 
-`}
- 
+        }); 
+}
+``` 
